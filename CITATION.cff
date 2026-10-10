@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "threews-agent-starter"
+abstract: "Live 3D AI agent in one page. A responsive, Codespaces-ready <agent-3d> starter with motion, speech, a keyless create command and a ten-minute learning path."
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/threews-agent-starter"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

@@ -1,0 +1,25 @@
+# threews-agent-starter
+
+> Live 3D AI agent in one page. A responsive, Codespaces-ready <agent-3d> starter with motion, speech, a keyless create command and a ten-minute learning path.
+
+threews-agent-starter is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/threews-agent-starter/blob/HEAD/README.md): install, usage and reference
+- [Start in Codespaces](https://github.com/nirholas/threews-agent-starter/blob/HEAD/README.md#start-in-codespaces)
+- [Make the character yours](https://github.com/nirholas/threews-agent-starter/blob/HEAD/README.md#make-the-character-yours)
+- [The whole integration](https://github.com/nirholas/threews-agent-starter/blob/HEAD/README.md#the-whole-integration)
+- [Verify](https://github.com/nirholas/threews-agent-starter/blob/HEAD/README.md#verify)
+- [License](https://github.com/nirholas/threews-agent-starter/blob/HEAD/README.md#license)
+- [AGENTS.md](https://github.com/nirholas/threews-agent-starter/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/threews-agent-starter/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/threews-agent-starter)
+- [Issues](https://github.com/nirholas/threews-agent-starter/issues)
+- [Discussions](https://github.com/nirholas/threews-agent-starter/discussions)
+- [Homepage](https://three.ws)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
